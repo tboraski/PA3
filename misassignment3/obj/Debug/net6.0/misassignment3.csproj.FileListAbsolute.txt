@@ -1,0 +1,15 @@
+C:\source\repos\misassignment3\bin\Debug\net6.0\misassignment3.exe
+C:\source\repos\misassignment3\bin\Debug\net6.0\misassignment3.deps.json
+C:\source\repos\misassignment3\bin\Debug\net6.0\misassignment3.runtimeconfig.json
+C:\source\repos\misassignment3\bin\Debug\net6.0\misassignment3.dll
+C:\source\repos\misassignment3\bin\Debug\net6.0\ref\misassignment3.dll
+C:\source\repos\misassignment3\bin\Debug\net6.0\misassignment3.pdb
+C:\source\repos\misassignment3\obj\Debug\net6.0\misassignment3.csproj.AssemblyReference.cache
+C:\source\repos\misassignment3\obj\Debug\net6.0\misassignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\misassignment3\obj\Debug\net6.0\misassignment3.AssemblyInfoInputs.cache
+C:\source\repos\misassignment3\obj\Debug\net6.0\misassignment3.AssemblyInfo.cs
+C:\source\repos\misassignment3\obj\Debug\net6.0\misassignment3.csproj.CoreCompileInputs.cache
+C:\source\repos\misassignment3\obj\Debug\net6.0\misassignment3.dll
+C:\source\repos\misassignment3\obj\Debug\net6.0\ref\misassignment3.dll
+C:\source\repos\misassignment3\obj\Debug\net6.0\misassignment3.pdb
+C:\source\repos\misassignment3\obj\Debug\net6.0\misassignment3.genruntimeconfig.cache
